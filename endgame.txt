@@ -1,0 +1,3 @@
+Number of tiles for Adam = 5
+Number of tiles for Niall = 5
+Tie between Adam and Niall
